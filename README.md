@@ -3,9 +3,9 @@
 
 #### Please email e5hughes@uwaterloo.ca to see source code
 
-![](./sceenshot3.png)
-![](./sceenshot4.png)
-![](./sceenshot5.png)
-![](./sceenshot6.png)
-![](./sceenshot7.png)
-![](./sceenshot8.png)
+![](./screenshot3.png)
+![](./screenshot4.png)
+![](./screenshot5.png)
+![](./screenshot6.png)
+![](./screenshot7.png)
+![](./screenshot8.png)
